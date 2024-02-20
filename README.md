@@ -5,7 +5,7 @@ my personal configuration for professional development using java/python/golang/
 
 clone it in your ~/.config/ directory:
 
-    https://github.com/incafox/dot-files .
+    git clone https://github.com/incafox/dot-files .
 
 Simple yet effective
 ![alt text](pic.png)
