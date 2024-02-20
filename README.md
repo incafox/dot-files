@@ -12,5 +12,5 @@ my personal configuration for professional development using java/python/golang/
     - IDE like enviroment for java, golang, python
     - themes
 
-- config for iterm2 (not using anymore but here is case, replaced by Kitty)
+- config for iterm2 (im not using it anymore but here in case, replaced by Kitty)
 
