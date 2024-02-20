@@ -1,7 +1,0 @@
----
-project-catalogs:
-- name: "gs"
-  description: "Getting Started Catalog"
-  url: "https://github.com/rd-1-2022/spring-gs-catalog"
-  tags:
-  - "java-17, boot-3.1"
