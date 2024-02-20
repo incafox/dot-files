@@ -3,9 +3,6 @@
 
 my personal configuration for professional development using java/python/golang/javascript/react
 
-clone it in your ~/.config/ directory:
-
-    git clone https://github.com/incafox/dot-files .
 
 Simple yet effective
 ![alt text](pic.png)
