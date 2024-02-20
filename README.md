@@ -4,11 +4,11 @@ My DotFiles
 my personal configuration for professional development using java/python/golang/javascript/react
 
 
-- config for Kitty terminal
+- Kitty terminal
     - font, font size, maps for tmux
-- config tmux 
+- Tmux 
     - shortcuts, session, panes, tabs, etc
-- config for lunar vim
+- Lunar Vim
     - IDE like enviroment for java, golang, python
     - themes
 
