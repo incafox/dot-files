@@ -3,6 +3,9 @@ My DotFiles
 
 my personal configuration for professional development using java/python/golang/javascript/react
 
+clone it in your ~/.config/ directory:
+
+    https://github.com/incafox/dot-files .
 
 - Kitty terminal
     - font, font size, maps for tmux
