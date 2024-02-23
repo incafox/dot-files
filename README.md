@@ -5,10 +5,6 @@ my personal configuration for professional development using java/python/golang/
 
     git pull --recurse-submodules
 
-preferred font: hack nerd
-
-    brew install font-hack-nerd-font
-
 Simple yet effective
 ![alt text](pic.png)
 
@@ -22,6 +18,9 @@ Simple yet effective
 
 - config for iterm2 (im not using it anymore but here in case, replaced by Kitty because Kitty uses less CPU)
 
+Preferred Font 
+
+- Fira Code: best theme to play with any theme without being affected by contrast (https://github.com/tonsky/FiraCode/wiki/Installing)
 
 # useful links
  
